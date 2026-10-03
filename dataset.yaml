@@ -1,0 +1,7 @@
+names: [1_rupee_note, 2_rupee_note, 5_rupee_note, 10_rupee_note, 20_rupee_note, 50_rupee_note,
+  100_rupee_note, 200_rupee_note, 500_rupee_note, 2000_rupee_note, 1_rupee_coin, 2_rupee_coin,
+  5_rupee_coin, 10_rupee_coin, 20_rupee_coin]
+nc: 15
+path: ./dataset
+train: images/train
+val: images/val
